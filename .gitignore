@@ -1,3 +1,2 @@
-echo "build/" > .gitignore
-
-echo "cmake-build-*/" >> .gitignore
+build/
+cmake-build-*/
